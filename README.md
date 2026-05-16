@@ -62,3 +62,17 @@ The project includes:
 ## Author
 Vikas Kapse
 Master’s Student | Business Intelligence & Data Analytics
+
+
+
+
+## Project Preview
+
+### Market Analysis
+![Market Analysis](C:\Masters\Projects\images)
+
+### Brand Positioning
+![Brand Positioning](C:\Masters\Projects\images)
+
+### Marketing Mix
+![Marketing Mix](C:\Masters\Projects\images)
