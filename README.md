@@ -69,7 +69,7 @@ Master’s Student | Business Intelligence & Data Analytics
 ## Project Preview
 
 ### Market Analysis
-![pestle-analysis.png](images/pestle-analysis.png)
+![pestle-analysis](images/pestle-analysis.png)
 
 ### Pricing Strategy
 ![Pricing Strategy](images/porter-five-forces.png)
