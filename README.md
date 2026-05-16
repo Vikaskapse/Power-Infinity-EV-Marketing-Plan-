@@ -68,15 +68,14 @@ Master’s Student | Business Intelligence & Data Analytics
 
 ## Project Preview
 
-### Market Analysis
-![pestle-analysis](images/pestle-analysis.png)
+### Porter’s Five Forces
+![Porter Five Forces](images/porter-five-forces.png.png)
 
-### Pricing Strategy
-![Pricing Strategy](images/porter-five-forces.png)
+### PESTLE Analysis
+![PESTLE Analysis](images/pestle-analysis.png.png)
 
 ### Marketing Mix
-![Marketing Mix](images/marketing-mix.png)
+![Marketing Mix](images/marketing-mix.png.png)
 
 ### Brand Pyramid
-![Brand Pyramid](images/brand-pyramid.png)
-
+![Brand Pyramid](images/brand-pyramid.png.png)
